@@ -1,6 +1,6 @@
-import { AppDataSource } from '../db/dbConfig';
-import { UserEntity } from '../entity/user.entity';
-import { IUser } from '../interface/user.interface';
+import { AppDataSource } from "../../db/dbConfig";
+import { UserEntity } from "../entity/user.entity";
+import { IUser } from "../interface/user.interface";
 
 
 export class UserService {
